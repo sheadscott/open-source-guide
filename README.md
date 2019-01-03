@@ -11,7 +11,7 @@ It's also really important if we want to make outside contributors feel welcome 
 
 This guide also contains a checklist we created that helps ensure our repos are clear, accessible, and user-friendly. Some terminology used may be GitHub-specific, but the concepts are applicable regardless of your version control system or platform. We wrote it so that both non-coders and coders can understand it. (If something is not clear, please let us know.)
 
-We’re sharing it because it we think it’s helpful for lots of organizations, including our own. We know that many of our repos don’t conform to this exact style. By articulating a specific style, we hope this document will also help us improve our own practices.
+We’re sharing it because we think it’s helpful for lots of organizations, including our own. We know that many of our repos don’t conform to this exact style. By articulating a specific style, we hope this document will also help us improve our own practices.
 
 
 ## How to use this guide
